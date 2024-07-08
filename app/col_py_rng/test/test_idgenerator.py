@@ -1,6 +1,6 @@
 import unittest
 import string
-from ..src.col_py_rng import (
+from ..src.col_py_rng  import(
     generate_password,
     generate_guid,
     generate_credit_card_number,
